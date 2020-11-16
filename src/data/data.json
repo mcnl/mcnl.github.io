@@ -1,0 +1,72 @@
+{
+    "Header": {
+
+        "title": "Saúde em primeiro lugar",
+        "paragraph": "Água limpa and Stuff"
+
+    },
+    "About": {
+        "paragraph": "Somos uma empresa familiar de limpeza de reservatórios e cisternas, com serviço personalizado e atendimento exclusivo diretamente dos donos.",
+        "Why": [
+            "Empresa nova",
+            "Atendimento Exclusivo",
+            "Preço Competitivo"
+        ],
+        "Why2": [
+            "Atenção aos detalhes",
+            "Confiaça",
+            "Melhor site do norte-nordeste"
+        ]
+    },
+    "Services": [{
+            "icon": "fa fa-tint",
+            "name": " Limpeza da Cisterna e do Reservatório Superior",
+            "text": "Descrição Inteligente."
+        },
+        {
+            "icon": "fa fa-exclamation-triangle",
+            "name": "Análise Microbiológica",
+            "text": "Feito em laboratório AKA cozinha da casa."
+        },
+        {
+            "icon": "fa fa-pie-chart",
+            "name": "Relatório Detalhado da Condição do Reservatório",
+            "text": "Devia ter limpado antes amigo."
+        }
+
+
+    ],
+    "Testimonials": [{
+            "img": "img/testimonials/01.jpg",
+            "text": "\"Eu achei do caralho, melhor empresa não existe não, e esse site, lindo demais.\"",
+            "name": "Matheus Casa Nova da Luz, completamente imparcial"
+        }
+    ],
+    "Team": [{
+            "img": "img/team/01.jpg",
+            "name": "José Ricardo Xavier",
+            "job": "Co-Fundador, Diretor"
+        },
+        {
+            "img": "img/team/02.jpg",
+            "name": "Maria Tereza de Sousa",
+            "job": "Co-Fundandor, Vice-Diretora"
+        }, {
+            "img": "img/team/03.jpg",
+            "name": "Tia #1",
+            "job": ""
+        },
+        {
+            "img": "img/team/04.jpg",
+            "name": "Tia #2",
+            "job": ""
+        }
+    ],
+    "Contact": {
+        "address": "105 R. Charles Darwin, Boa Viagem, Recife, PE",
+        "phone": "+55 (81) 98898-1319",
+        "email": "info@company.com",
+        "facebook": "fb.com",
+        "instagem": "instagram.com"
+    }
+}
